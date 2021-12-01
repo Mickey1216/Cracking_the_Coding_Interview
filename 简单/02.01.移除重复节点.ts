@@ -27,7 +27,6 @@ class ListNode {
     }
 }
 
-
 function removeDuplicateNodes(head: ListNode | null): ListNode | null {
     if(!head) return head
 
